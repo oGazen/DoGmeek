@@ -1,4 +1,4 @@
-**简体中文** | **[English](README-en.md)** | **[Русский](README-ru.md)**
+**简体中文** | **[English](README-en.md)**
 # Gmeek
 
 一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
@@ -33,12 +33,6 @@
 - 博客写作在Issues中完成后，自动触发Actions执行部署任务
 - 评论系统引入[utteranc.es](https://utteranc.es/)
 - 使用`jinja2`对html进行渲染，可通过模板自定义UI主题
-
-### 赞赏
-
-如果本项目对你有帮助，可以用微信赞赏一下作者，让项目有继续更新维护下去的动力，谢谢！
-
-![赞赏码](img/赞赏码.jpg)
 
 ### 鸣谢
 - [jinja2](https://jinja.palletsprojects.com/)
